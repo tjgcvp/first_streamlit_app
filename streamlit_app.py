@@ -9,5 +9,5 @@ streamlit.text('🥗 Kale, Spinach & Rocket Smoothie')
 streamlit.text('🐔 Hard-Boiled Free-Range Egg')
 streamlit.text('🥑🍞 Avocda Toast')
 streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
-stremlit.dataframe(my_fruit_list)
+streamlit.dataframe(my_fruit_list)
 
